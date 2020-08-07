@@ -1,0 +1,17 @@
+{
+  "name": "around_the_us-24070a7f7518ff928698a40dc93e894893120f88",
+  "version": "1.0.0",
+  "description": "=======",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.11.0"
+  }
+}
